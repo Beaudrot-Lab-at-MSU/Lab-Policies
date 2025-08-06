@@ -1,7 +1,5 @@
 # Code of Conduct
 
-Rice University's 2003 resolution on educational diversity states: "Rice University remains committed to its goals of providing a truly outstanding undergraduate and graduate education and producing internationally-recognized scholarship and research, and has long recognized the value and importance of diversity and cultural inclusiveness to the University's overall mission...Diversity of all types enriches the learning environment at Rice and improves the quality of a Rice education for all students, and such diversity helps prepare Rice students to live, work, serve, and lead in our increasingly diverse society."
-
 The Beaudrot Lab is dedicated to maintaining an inclusive culture. We value the participation of every member of our community and want to ensure that each lab member and collaborator has a positive educational experience. Accordingly, everyone who participates in a Beaudrot Lab project is expected to show respect and courtesy to other community members at all time.
 
 We ask all members of the community to conform to the following Code of Conduct:
